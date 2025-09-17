@@ -411,3 +411,4 @@
 2025-09-17 22:31:51,349 - INFO - Saved 56 products to citizenry_data\citizenry_products_20250917_223151.csv
 2025-09-17 22:31:51,359 - INFO - Scraping completed. Success: 56, Failed: 40
 2025-09-17 22:31:51,360 - INFO - Results saved to citizenry_products_20250917_223151.csv and citizenry_products_detailed_20250917_223151.json
+
